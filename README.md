@@ -1,22 +1,22 @@
-# dplearning
-ŠT—v
-Ruby on rails ‚Æ python ‚ğ‘g‚İ‡‚í‚¹‚ÄAƒAƒbƒvƒ[ƒh‚µ‚½‰æ‘œ‚Éƒ‰ƒxƒ‹‚Æ‚»‚Ìƒ‰ƒxƒ‹‚Ìd—v“x(’–Ú“x‚Ì‚æ‚¤‚È‚à‚Ì)‚ğ•t—^‚·‚éƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Å‚·B
-ƒ‰ƒxƒ‹‚Æd—v“x‚Ì•t—^‚É‚Í[‘wŠwK‚ğ—p‚¢‚ÄA•t—^‚ğs‚¢‚Ü‚·Brails‚Å‚ÍƒAƒbƒvƒ[ƒh‚³‚ê‚½‰æ‘œ‚Æƒ^ƒCƒgƒ‹Aƒtƒ@ƒCƒ‹ƒpƒXA•t—^‚³‚ê‚½ƒ‰ƒxƒ‹‚Æd—v“x‚ğ‰æ‘œ‚²‚Æ‚Éˆê‚Â‚Ìƒy[ƒW‚É•\¦‚·‚é‚æ‚¤‚É‚µ‚Ü‚µ‚½B
+## dplearning
+#æ¦‚è¦
+Ruby on rails ã¨ python ã‚’çµ„ã¿åˆã‚ã›ã¦ã€ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ãŸç”»åƒã«ãƒ©ãƒ™ãƒ«ã¨ãã®ãƒ©ãƒ™ãƒ«ã®é‡è¦åº¦(æ³¨ç›®åº¦ã®ã‚ˆã†ãªã‚‚ã®)ã‚’ä»˜ä¸ã™ã‚‹ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§ã™ã€‚
+ãƒ©ãƒ™ãƒ«ã¨é‡è¦åº¦ã®ä»˜ä¸ã«ã¯æ·±å±¤å­¦ç¿’ã‚’ç”¨ã„ã¦ã€ä»˜ä¸ã‚’è¡Œã„ã¾ã™ã€‚railsã§ã¯ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã•ã‚ŒãŸç”»åƒã¨ã‚¿ã‚¤ãƒˆãƒ«ã€ãƒ•ã‚¡ã‚¤ãƒ«ãƒ‘ã‚¹ã€ä»˜ä¸ã•ã‚ŒãŸãƒ©ãƒ™ãƒ«ã¨é‡è¦åº¦ã‚’ç”»åƒã”ã¨ã«ä¸€ã¤ã®ãƒšãƒ¼ã‚¸ã«è¡¨ç¤ºã™ã‚‹ã‚ˆã†ã«ã—ã¾ã—ãŸã€‚
 
-ÀsŠÂ‹«
+#å®Ÿè¡Œç’°å¢ƒ
 python
-ƒo[ƒWƒ‡ƒ“F3.6.8
-ƒ‚ƒWƒ…[ƒ‹Fnumpy,keras,json,cv2,tensorflow
+ãƒãƒ¼ã‚¸ãƒ§ãƒ³ï¼š3.6.8
+ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ï¼šnumpy,keras,json,cv2,tensorflow
 ruby
-ƒo[ƒWƒ‡ƒ“F2.4.0
+ãƒãƒ¼ã‚¸ãƒ§ãƒ³ï¼š2.4.0
 rails
-ƒo[ƒWƒ‡ƒ“F5.2.2
-Gem‚ÉŠÖ‚µ‚Ä‚ÍGemfileQÆ
+ãƒãƒ¼ã‚¸ãƒ§ãƒ³ï¼š5.2.2
+Gemã«é–¢ã—ã¦ã¯Gemfileå‚ç…§
 
-Às•û–@
-ƒtƒ@ƒCƒ‹ƒpƒX‚ğ“KØ‚ÈƒpƒX‚É•ÏX
-rails‚ÅƒT[ƒo[‚ğ‹N“®
-ƒuƒ‰ƒEƒU‚©‚çƒAƒNƒZƒX‚·‚é‚±‚Æ‚ÅAindexƒy[ƒW‚ÉˆÚ“®‚µ‚Ü‚·BAdd New‚©‚çƒAƒbƒvƒ[ƒhƒy[ƒW‚ÉˆÚ“®‚µ‚Ü‚·BƒAƒbƒvƒ[ƒh‚µ‚½‰æ‘œ(ƒy[ƒW)‚Íindex‚Ì[delete]‚Åíœ‚Å‚«‚Ü‚·B
+#å®Ÿè¡Œæ–¹æ³•
+ãƒ•ã‚¡ã‚¤ãƒ«ãƒ‘ã‚¹ã‚’é©åˆ‡ãªãƒ‘ã‚¹ã«å¤‰æ›´
+railsã§ã‚µãƒ¼ãƒãƒ¼ã‚’èµ·å‹•
+ãƒ–ãƒ©ã‚¦ã‚¶ã‹ã‚‰ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã“ã¨ã§ã€indexãƒšãƒ¼ã‚¸ã«ç§»å‹•ã—ã¾ã™ã€‚Add Newã‹ã‚‰ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ãƒšãƒ¼ã‚¸ã«ç§»å‹•ã—ã¾ã™ã€‚ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ãŸç”»åƒ(ãƒšãƒ¼ã‚¸)ã¯indexã®[delete]ã§å‰Šé™¤ã§ãã¾ã™ã€‚
 
-—\‘ª‰Â”\‚Èƒ‰ƒxƒ‹‚ÍˆÈ‰º‚Ì116ŒÂ‚É‚È‚è‚Ü‚·B
+äºˆæ¸¬å¯èƒ½ãªãƒ©ãƒ™ãƒ«ã¯ä»¥ä¸‹ã®116å€‹ã«ãªã‚Šã¾ã™ã€‚
 'airplane', 'baby', 'background', 'ball', 'baseball', 'bat', 'bathroom', 'beach', 'bear', 'bed', 'bench', 'bike', 'bird', 'blue', 'board', 'boat', 'bowl', 'boy', 'building', 'bus', 'cake', 'camera', 'car', 'cat', 'cell', 'chair', 'child', 'city', 'clock', 'computer', 'couch', 'counter', 'couple', 'desk', 'dirt', 'display', 'dog', 'elephant', 'fence', 'field', 'fire', 'floor', 'food', 'frisbee', 'fruit', 'giraffe', 'girl', 'glass', 'grass', 'ground', 'group', 'head', 'hill', 'horse', 'hydrant', 'keyboard', 'kitchen', 'kite', 'laptop', 'light', 'living', 'luggage', 'man', 'middle', 'mirror', 'motorcycle', 'mountain', 'ocean', 'orange', 'park', 'parking', 'person', 'phone', 'photo', 'picture', 'pizza', 'plane', 'plate', 'player', 'pole', 'racket', 'refrigerator', 'road', 'room', 'sandwich', 'shirt', 'sidewalk', 'sink', 'skateboard', 'sky', 'slope', 'snow', 'soccer', 'station', 'street', 'suit', 'surfboard', 'table', 'tennis', 'tie', 'toilet', 'tower', 'track', 'traffic', 'train', 'tree', 'truck', 'umbrella', 'vase', 'view', 'wall', 'water', 'wave', 'window', 'woman', 'zebra'
