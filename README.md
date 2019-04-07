@@ -14,7 +14,7 @@ Ruby on rails と python を組み合わせて、アップロードした画像�
 * Gemに関してはGemfile参照
 
 ## 実行方法
-weightファイルを[ダウンロード](https://drive.google.com/file/d/1Mqi55wMM9c6CFf42FN0H_eLE0r6h8c7i/view?usp=sharing)してください。
+weightファイルを[ダウンロード](https://drive.google.com/file/d/1e-MB1mM2pUmNqaE5kF1tc99so7H3iFi_/view?usp=sharing)してください。
 ファイルパスを適切なパスに変更
 railsでサーバーを起動
 ブラウザからアクセスすることで、indexページに移動します。Add Newからアップロードページに移動します。アップロードした画像(ページ)はindexの[delete]で削除できます。
