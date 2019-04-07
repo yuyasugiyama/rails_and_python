@@ -21,8 +21,9 @@ railsでサーバーを起動
 
 予測可能なラベルは以下の116個になります。
 
-|'airplane'|'baby'|'background'|'ball'|'baseball'|'bat'|'bathroom'|'beach'|'bear'|'bed'|
+|ラベル|　|　|　|　|　|　|　|　|　|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|'airplane'|'baby'|'background'|'ball'|'baseball'|'bat'|'bathroom'|'beach'|'bear'|'bed'|
 |'bench'|'bike'|'bird'|'blue'|'board'|'boat'|'bowl'|'boy'|'building'|'bus'|
 |'cake'|'camera'|'car'|'cat'|'cell'|'chair'|'child'|'city'|'clock'|'computer'|
 |'couch'|'counter'|'couple'|'desk'|'dirt'|'display'|'dog'|'elephant'|'fence'|
