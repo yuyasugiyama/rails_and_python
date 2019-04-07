@@ -18,6 +18,9 @@ weightファイルを[ダウンロード](https://drive.google.com/file/d/1e-MB1
 ファイルパスを適切なパスに変更
 railsでサーバーを起動
 ブラウザからアクセスすることで、indexページに移動します。Add Newからアップロードページに移動します。アップロードした画像(ページ)はindexの[delete]で削除できます。
+アップロード後の一例は以下のようになります。
+
+![](https://github.com/yuyasugiyama/rails_and_python/blob/master/COCO_val2014_000000311435.jpg)
 
 予測可能なラベルは以下の116個になります。
 
