@@ -1,25 +1,26 @@
-### dplearning
+# dplearning
 ## 概要
 Ruby on rails と python を組み合わせて、アップロードした画像にラベルとそのラベルの重要度(注目度のようなもの)を付与するアプリケーションです。
 ラベルと重要度の付与には深層学習を用いて、付与を行います。railsではアップロードされた画像とタイトル、ファイルパス、付与されたラベルと重要度を画像ごとに一つのページに表示するようにしました。
 
 ## 実行環境
-# python
+### python
 * バージョン：3.6.8
 * モジュール：numpy,keras,json,cv2,tensorflow
-# ruby
+### ruby
 * バージョン：2.4.0
-# rails
+### rails
 * バージョン：5.2.2
 * Gemに関してはGemfile参照
 
-# 実行方法
+## 実行方法
 weightファイルを[ダウンロード](https://drive.google.com/file/d/1Mqi55wMM9c6CFf42FN0H_eLE0r6h8c7i/view?usp=sharing)してください。
 ファイルパスを適切なパスに変更
 railsでサーバーを起動
 ブラウザからアクセスすることで、indexページに移動します。Add Newからアップロードページに移動します。アップロードした画像(ページ)はindexの[delete]で削除できます。
 
 予測可能なラベルは以下の116個になります。
+---|---|---|---|---|---|---|---|---|---|
 |'airplane'|'baby'|'background'|'ball'|'baseball'|'bat'|'bathroom'|'beach'|'bear'|'bed'|
 |'bench'|'bike'|'bird'|'blue'|'board'|'boat'|'bowl'|'boy'|'building'|'bus'|
 |'cake'|'camera'|'car'|'cat'|'cell'|'chair'|'child'|'city'|'clock'|'computer'|
